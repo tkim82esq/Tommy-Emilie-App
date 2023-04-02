@@ -1,0 +1,18 @@
+/* Add any custom styles you need for your app here */
+
+/* FullCalendar styles */
+.fc {
+  font-size: 14px;
+}
+
+.fc-toolbar {
+  margin-bottom: 1em;
+}
+
+.fc-event {
+  cursor: pointer;
+}
+
+.fc-event:hover {
+  opacity: 0.75;
+}
